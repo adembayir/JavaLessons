@@ -1,0 +1,34 @@
+Arrays Utility Class:
+    - binarySearch method()
+
+MultiDimensional Arrays: 2D, 3D, 4D
+
+        n dimensional array : contains (n-1) dimensional arrays
+
+        2 Dimesional Array: contains 1 dimensional arrays
+        arr2D = {
+          {1,2,3} = index 0 for 2D array
+           0 1 2         {4,5} = index 1 for 2D array
+                          0 1         {7,8,9,4} = index 2 for 2D array
+        }                              0 1 2 3
+
+        number 8 : arr2D [2][1]
+
+ ************ Methods:   ***********************
+ - reusable
+ exp: str.length() ---> takes no parameter, return type: integer
+       str.charAt(index) ---> takes parameter(integer which reps. index), returning Char
+
+   Custom Methods/Functions
+
+   syntax of custom methods
+   Access-Modifier specifier return-type methodName(Parameter){
+   statement
+   }
+   Access-Modifier: public, private, protected, default
+
+   specifier: static, final, abstract
+
+   return-Type: void, and any dataType (String, int, Array...)
+
+   parameter : any data Type (String, int, Array...)
