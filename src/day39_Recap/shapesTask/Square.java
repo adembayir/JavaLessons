@@ -34,8 +34,8 @@ public class Square extends Shape {
     public String toString() {
         return "Square{" +
                 "side=" + side +
-                "area=" + area() +
-                "perimeter=" + perimeter() +
+                ", area=" + area() +
+                ", perimeter=" + perimeter() +
                 '}';
     }
 }
