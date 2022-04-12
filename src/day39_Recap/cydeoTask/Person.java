@@ -83,22 +83,6 @@ CydeoTask:
                 sleep()
                 toString()
 
-
-
-    6. Create a sub class of Person named Student
-
-            Extra variables:
-                studentId, fieldOfStudy
-
-            Encapsulate all the fields
-
-            Add a constructor to set all the fields
-
-            Encapsulate all the fields
-
-            Methods:
-                study()
-
     7. Create a class named Cydeo:
             create objects of Tester, Developer,Teacher, Student
 
