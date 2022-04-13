@@ -2,7 +2,7 @@ package day34_GarbageCollection_AccessModifiers;
 
 import static day34_GarbageCollection_AccessModifiers.AccessModifiers.*;
 
-public abstract class AccessModifiers_Test {
+public abstract class AccessModifiers_Test1 {
 
     public static void main(String[] args) {
 
